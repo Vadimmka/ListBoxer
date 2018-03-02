@@ -1,2 +1,2 @@
 # ListBoxer
-Screnshots
+Screenshots
